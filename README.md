@@ -1,7 +1,7 @@
 #Personal Recipe Catalog
 
 Features:
-•	Bottom Navigation for Veg/Non-Veg
+•	Bottom Navigation for Veg/Non-Veg \n
 •	Spinner for Snack and Main Course
 •	Button for initiate recipe display
 •	Fragment to display the recipe
