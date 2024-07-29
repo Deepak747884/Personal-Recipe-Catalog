@@ -1,13 +1,19 @@
 #Personal Recipe Catalog
 
 Features:
+
 •	Bottom Navigation for Veg/Non-Veg 
 
 •	Spinner for Snack and Main Course
+
 •	Button for initiate recipe display
+
 •	Fragment to display the recipe
+
 •	Scroll View if recipe is long
+
 •	Text View to display text for recipes
+
 •	When statement used in Kotlin for decision making
 
 #Samples
