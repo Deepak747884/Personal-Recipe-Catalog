@@ -1,4 +1,4 @@
-#Personal Recipe Catalog
+# Personal Recipe Catalog
 
 Features:
 
@@ -16,7 +16,7 @@ Features:
 
 •	When statement used in Kotlin for decision making
 
-#Samples
+# Samples
 
 <a href="url"><img src="https://github.com/user-attachments/assets/261007dc-1541-43ad-afe6-98d180a0c12c" align="left" height="555" width="250" ></a>
 <a href="url"><img src="https://github.com/user-attachments/assets/95a0385d-7f8a-42e2-8fc1-e7200a2914d6" align="left" height="555" width="250" ></a>
