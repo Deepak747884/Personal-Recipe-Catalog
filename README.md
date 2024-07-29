@@ -6,7 +6,7 @@ Features:
 
 •	Spinner for Snack and Main Course
 
-•	Button for initiate recipe display
+•	Button to initiate recipe display
 
 •	Fragment to display the recipe
 
