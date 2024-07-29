@@ -2,6 +2,7 @@
 
 Features:
 •	Bottom Navigation for Veg/Non-Veg 
+
 •	Spinner for Snack and Main Course
 •	Button for initiate recipe display
 •	Fragment to display the recipe
